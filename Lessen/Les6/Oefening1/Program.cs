@@ -7,16 +7,20 @@ namespace Oefening1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Paard p1 = new Paard();
-            Console.WriteLine(p1.ToString());
+            Paard paard1 = new Paard(4);
+            Console.WriteLine(paard1.ToString());
+            paard1.AantalPoten = 3;
+            Console.WriteLine(paard1.ToString());
         }
     }
 
-    class Dier
+    public class Dier
     {
+        // Velden
         private int aantalPoten;
         private string naam;
 
+        // Properties
         public int AantalPoten
         {
             get { return aantalPoten; }
@@ -28,28 +32,56 @@ namespace Oefening1
             get { return naam; }
             set { naam = value; }
         }
+
         public string Ras
         {
             get;
             set;
         }
 
-        public Dier(){}
+        // Constructor
+        public Dier(int poten)
+        {
+            aantalPoten = poten;
+        }
 
+        // Methodes
         public void MaakGeluid()
         {
-            // Maak een geluid...
+            Console.WriteLine("Geluid dier!");
+        }
+
+        public string ToString()
+        {
+            return String.Format("Dier: \n Poten: {0}", aantalPoten);
         }
     }
 
-    class Paard : Dier
+    public class Paard : Dier
     {
+        // Velden
         private int aantalSokken;
-        public Paard(){}
+
+        // Properties
+        public int AantalSokken
+        {
+            get { return aantalSokken; }
+            set { aantalSokken = value; }
+        }
+
+        // Constructor
+        public Paard(int poten) : base (poten)
+        {
+            
+        }
+
+
+        // Methodes
+        
 
     }
 
-    class Hond
+    public class Hond
     {
         public Hond(){}
     }
