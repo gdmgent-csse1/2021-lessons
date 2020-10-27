@@ -1,0 +1,13 @@
+C:\Users\krisra\Code\CSSEI\Lessen\Les5\Oefening4\obj\Debug\netcoreapp3.1\Oefening4.csprojAssemblyReference.cache
+C:\Users\krisra\Code\CSSEI\Lessen\Les5\Oefening4\obj\Debug\netcoreapp3.1\Oefening4.AssemblyInfoInputs.cache
+C:\Users\krisra\Code\CSSEI\Lessen\Les5\Oefening4\obj\Debug\netcoreapp3.1\Oefening4.AssemblyInfo.cs
+C:\Users\krisra\Code\CSSEI\Lessen\Les5\Oefening4\obj\Debug\netcoreapp3.1\Oefening4.csproj.CoreCompileInputs.cache
+C:\Users\krisra\Code\CSSEI\Lessen\Les5\Oefening4\bin\Debug\netcoreapp3.1\Oefening4.exe
+C:\Users\krisra\Code\CSSEI\Lessen\Les5\Oefening4\bin\Debug\netcoreapp3.1\Oefening4.deps.json
+C:\Users\krisra\Code\CSSEI\Lessen\Les5\Oefening4\bin\Debug\netcoreapp3.1\Oefening4.runtimeconfig.json
+C:\Users\krisra\Code\CSSEI\Lessen\Les5\Oefening4\bin\Debug\netcoreapp3.1\Oefening4.runtimeconfig.dev.json
+C:\Users\krisra\Code\CSSEI\Lessen\Les5\Oefening4\bin\Debug\netcoreapp3.1\Oefening4.dll
+C:\Users\krisra\Code\CSSEI\Lessen\Les5\Oefening4\bin\Debug\netcoreapp3.1\Oefening4.pdb
+C:\Users\krisra\Code\CSSEI\Lessen\Les5\Oefening4\obj\Debug\netcoreapp3.1\Oefening4.dll
+C:\Users\krisra\Code\CSSEI\Lessen\Les5\Oefening4\obj\Debug\netcoreapp3.1\Oefening4.pdb
+C:\Users\krisra\Code\CSSEI\Lessen\Les5\Oefening4\obj\Debug\netcoreapp3.1\Oefening4.genruntimeconfig.cache

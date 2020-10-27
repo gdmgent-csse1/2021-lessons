@@ -1,0 +1,13 @@
+C:\Users\topsolver\Code\csse1\Lessen\Les4\Oefening1\bin\Debug\netcoreapp3.1\Oefening1.exe
+C:\Users\topsolver\Code\csse1\Lessen\Les4\Oefening1\bin\Debug\netcoreapp3.1\Oefening1.deps.json
+C:\Users\topsolver\Code\csse1\Lessen\Les4\Oefening1\bin\Debug\netcoreapp3.1\Oefening1.runtimeconfig.json
+C:\Users\topsolver\Code\csse1\Lessen\Les4\Oefening1\bin\Debug\netcoreapp3.1\Oefening1.runtimeconfig.dev.json
+C:\Users\topsolver\Code\csse1\Lessen\Les4\Oefening1\bin\Debug\netcoreapp3.1\Oefening1.dll
+C:\Users\topsolver\Code\csse1\Lessen\Les4\Oefening1\bin\Debug\netcoreapp3.1\Oefening1.pdb
+C:\Users\topsolver\Code\csse1\Lessen\Les4\Oefening1\obj\Debug\netcoreapp3.1\Oefening1.csprojAssemblyReference.cache
+C:\Users\topsolver\Code\csse1\Lessen\Les4\Oefening1\obj\Debug\netcoreapp3.1\Oefening1.AssemblyInfoInputs.cache
+C:\Users\topsolver\Code\csse1\Lessen\Les4\Oefening1\obj\Debug\netcoreapp3.1\Oefening1.AssemblyInfo.cs
+C:\Users\topsolver\Code\csse1\Lessen\Les4\Oefening1\obj\Debug\netcoreapp3.1\Oefening1.csproj.CoreCompileInputs.cache
+C:\Users\topsolver\Code\csse1\Lessen\Les4\Oefening1\obj\Debug\netcoreapp3.1\Oefening1.dll
+C:\Users\topsolver\Code\csse1\Lessen\Les4\Oefening1\obj\Debug\netcoreapp3.1\Oefening1.pdb
+C:\Users\topsolver\Code\csse1\Lessen\Les4\Oefening1\obj\Debug\netcoreapp3.1\Oefening1.genruntimeconfig.cache
