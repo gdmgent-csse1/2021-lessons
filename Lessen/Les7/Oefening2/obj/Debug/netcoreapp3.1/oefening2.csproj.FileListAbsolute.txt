@@ -1,0 +1,13 @@
+C:\Users\krisra\Code\cssei\lessen\les7\oefening2\obj\Debug\netcoreapp3.1\oefening2.csprojAssemblyReference.cache
+C:\Users\krisra\Code\cssei\lessen\les7\oefening2\obj\Debug\netcoreapp3.1\oefening2.AssemblyInfoInputs.cache
+C:\Users\krisra\Code\cssei\lessen\les7\oefening2\obj\Debug\netcoreapp3.1\oefening2.AssemblyInfo.cs
+C:\Users\krisra\Code\cssei\lessen\les7\oefening2\obj\Debug\netcoreapp3.1\oefening2.csproj.CoreCompileInputs.cache
+C:\Users\krisra\Code\cssei\lessen\les7\oefening2\bin\Debug\netcoreapp3.1\oefening2.exe
+C:\Users\krisra\Code\cssei\lessen\les7\oefening2\bin\Debug\netcoreapp3.1\oefening2.deps.json
+C:\Users\krisra\Code\cssei\lessen\les7\oefening2\bin\Debug\netcoreapp3.1\oefening2.runtimeconfig.json
+C:\Users\krisra\Code\cssei\lessen\les7\oefening2\bin\Debug\netcoreapp3.1\oefening2.runtimeconfig.dev.json
+C:\Users\krisra\Code\cssei\lessen\les7\oefening2\bin\Debug\netcoreapp3.1\oefening2.dll
+C:\Users\krisra\Code\cssei\lessen\les7\oefening2\bin\Debug\netcoreapp3.1\oefening2.pdb
+C:\Users\krisra\Code\cssei\lessen\les7\oefening2\obj\Debug\netcoreapp3.1\oefening2.dll
+C:\Users\krisra\Code\cssei\lessen\les7\oefening2\obj\Debug\netcoreapp3.1\oefening2.pdb
+C:\Users\krisra\Code\cssei\lessen\les7\oefening2\obj\Debug\netcoreapp3.1\oefening2.genruntimeconfig.cache
