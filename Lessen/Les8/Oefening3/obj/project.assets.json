@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\krisra\\code\\cssei\\2021-lessons\\lessen\\les8\\oefening2\\Oefening2.csproj",
-      "projectName": "Oefening2",
-      "projectPath": "C:\\Users\\krisra\\code\\cssei\\2021-lessons\\lessen\\les8\\oefening2\\Oefening2.csproj",
+      "projectUniqueName": "C:\\Users\\krisra\\code\\cssei\\2021-lessons\\lessen\\les8\\Oefening3\\Oefening3.csproj",
+      "projectName": "Oefening3",
+      "projectPath": "C:\\Users\\krisra\\code\\cssei\\2021-lessons\\lessen\\les8\\Oefening3\\Oefening3.csproj",
       "packagesPath": "C:\\Users\\krisra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\krisra\\code\\cssei\\2021-lessons\\lessen\\les8\\oefening2\\obj\\",
+      "outputPath": "C:\\Users\\krisra\\code\\cssei\\2021-lessons\\lessen\\les8\\Oefening3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\krisra\\AppData\\Roaming\\NuGet\\NuGet.Config"

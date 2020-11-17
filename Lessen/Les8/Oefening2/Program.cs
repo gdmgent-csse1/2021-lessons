@@ -11,6 +11,7 @@ namespace Oefening2
                 over tot het schrijven van een tekstregel in de Console.
              */
             Console.WriteLine("Hello World!");
+  
             
         }
 
@@ -78,6 +79,27 @@ namespace Oefening2
         void Logging(string input)
         {
             Console.WriteLine(input);
+        }
+    }
+
+    public interface ILogging
+    {
+        void WriteLog();
+    }
+
+    public class Test : IC, ILogging
+    {
+        int teller;
+
+        public bool accountActive(string a)
+        {
+            Console.WriteLine("Test vanuit Test...");
+            return true;
+        }
+
+        public void WriteLog()
+        {
+            throw new NotImplementedException();
         }
     }
 }
