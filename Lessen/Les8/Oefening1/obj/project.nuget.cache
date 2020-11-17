@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "e5SRcB4yDGhtQo//lLzlIBZzCKB3cD5dC9JSsz1HHK61yaQeBusp0gGVvkghF4ur5A32itDWo7q3UO6emW7MAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\topsolver\\Repos\\2021-lessons\\Lessen\\Les8\\Oefening1\\Oefening1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\topsolver\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\topsolver\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\topsolver\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\topsolver\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
