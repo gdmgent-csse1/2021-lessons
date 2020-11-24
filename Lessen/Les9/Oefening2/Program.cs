@@ -1,0 +1,14 @@
+﻿using System;
+
+namespace oefening2
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+
+
+        }
+    }
+}
